@@ -1,3 +1,8 @@
+telegram.org
+web.telegram.org
+t.me
+cdn.telegram.org
+core.telegram.org
 2fa.telegram.org
 abuse.telegram.org
 account.telegram.org
@@ -26,7 +31,6 @@ bots.telegram.org
 business.telegram.org
 careers.telegram.org
 cdn-telegram.org
-cdn.telegram.org
 cdn1.telegram.org
 cdn1.telesco.pe
 cdn2.telegram.org
@@ -49,7 +53,6 @@ contact.telegram.org
 contest.com
 contest.telegram.org
 control.telegram.org
-core.telegram.org
 corp.telegram.org
 dashboard.telegram.org
 dc1.telegram.org
@@ -134,7 +137,6 @@ status.telegram.org
 store.telegram.org
 support.telegram.org
 system.telegram.org
-t.me
 tdesktop.com
 tdesktop.telegram.org
 tdlib.telegram.org
@@ -160,7 +162,6 @@ telegram.io
 telegram.jp
 telegram.me
 telegram.net
-telegram.org
 telegram.qa
 telegram.ru
 telegram.services
@@ -175,7 +176,6 @@ telegram.xyz
 telegramapp.org
 telegramdownload.com
 telegra.ph
-teleg.xyz
 telesco.pe
 test.telegram.org
 testing.telegram.org
@@ -197,12 +197,23 @@ venus.web.telegram.org
 verify.telegram.org
 vesta.telegram.org
 vesta.web.telegram.org
-web.t.me
-web.telegram.org
 webk.telegram.org
 webz.telegram.org
 windows.telegram.org
 zeus.telegram.org
 instantview.telegram.org
 stel.com
-telegram-cdn.org
+ws1.web.telegram.org
+ws2.web.telegram.org
+ws4.web.telegram.org
+ws5.web.telegram.org
+zws1.web.telegram.org
+zws2.web.telegram.org
+zws1.web.telegram.me
+zws2.web.telegram.me
+proxy.mtpproto.network
+mtproxy.dev
+mtproxy.app
+voice.telegram.org
+mmg.telegram.net
+tgcdn.net
