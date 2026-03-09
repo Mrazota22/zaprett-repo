@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "name": "strategy-general-fake-tls-auto",
+  "version": "1.0.0",
+  "author": "Snowy-Fluffy",
+  "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-fake-tls-auto.txt",
+    "sha256": "445f3c80908bfae382b2482ddd6ef8d58c6e73464fc752e81493021df09cd878"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "name": "strategy-youtubefix-alt",
+  "version": "1.0.0",
+  "author": "Snowy-Fluffy",
+  "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-youtubefix-alt.txt",
+    "sha256": "1e03e278e1592a546e6b9a7c76c173e674b6b7ec5041fa269e1acf8e2b8b14e6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "name": "strategy-general-simple-fake-alt",
+  "version": "1.0.0",
+  "author": "Snowy-Fluffy",
+  "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-simple-fake-alt.txt",
+    "sha256": "86eae6bf1156b655f2f0a6117223d5c61c55ae2c652ad514e5b9ab3fe9d56c49"
+  }
+}

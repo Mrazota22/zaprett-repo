@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "name": "strategy-alt8",
+  "version": "1.0.0",
+  "author": "flowseal",
+  "description": "Стратегия alt8 из репозитория zapret для Windows",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt8.txt",
+    "sha256": "464a945315f7e74c16364ff678ed758d01ae5489c80b70cfc84e192f36763a7e"
+  }
+}

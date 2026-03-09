@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "name": "strategy-alt10",
+  "version": "1.0.0",
+  "author": "flowseal",
+  "description": "Порт стратегии alt10 от flowseal",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_4pda_to.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt10.txt",
+    "sha256": "c45b1acdc2b755749258882d50f7f9d91592d3f9bfb76cdbcba5dc25113df4f0"
+  }
+}

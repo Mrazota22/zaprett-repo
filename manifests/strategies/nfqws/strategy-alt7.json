@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "name": "strategy-alt7",
+  "version": "1.0.0",
+  "author": "flowseal",
+  "description": "Стратегия alt7 из репозитория zapret для Windows",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt7.txt",
+    "sha256": "fcf0eb0aa06992858fe909b6a219261721c0f058a3ba0e42021f4893f8099a44"
+  }
+}

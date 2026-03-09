@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "name": "strategy-alt4",
+  "version": "1.0.0",
+  "author": "flowseal",
+  "description": "Стратегия alt4 из репозитория zapret для Windows",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt4.txt",
+    "sha256": "3aa4dcf556883aff7034ef17c6dcb7ccef1d7680293c63a91fc4b3f010d205cc"
+  }
+}

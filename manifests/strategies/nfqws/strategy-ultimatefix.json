@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "name": "strategy-ultimatefix",
+  "version": "1.0.0",
+  "author": "roman5432990",
+  "description": "стратегии от автора Роман (портировал PixelSymbols)",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-ultimatefix.txt",
+    "sha256": "d01d9fcf0444424485414461d823c6eed43df957ff0a6fa1146cb27954400b60"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "name": "strategy-alt2-roblox",
+  "version": "1.0.0",
+  "author": "Hellogames_.",
+  "description": "ALT 2 с обходом для роблокса",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt2-roblox.txt",
+    "sha256": "fec1980eb72294ef28b02c639b727eac6eb78fdd4c9b492db5804c9e8c56c168"
+  }
+}
