@@ -29,7 +29,7 @@ jobs:
         run: chmod +x zaprett-repo-utils-linux-x86_64
 
       - name: Run binary
-        run: ./zaprett-repo-utils-linux-x86_64
+        run: ./zaprett-repo-utils-linux-x86_64 update
 
       - name: Show diff
         run: git diff
