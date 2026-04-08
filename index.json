@@ -17,16 +17,6 @@
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/ipset/include/ipset-roblox.json"
     },
     {
-      "id": "ipset-telegram",
-      "type": "ipset",
-      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/ipset/include/ipset-telegram.json"
-    },
-    {
-      "id": "ipset-whatsapp",
-      "type": "ipset",
-      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/ipset/include/ipset-whatsapp.json"
-    },
-    {
       "id": "ipset-exclude-gosuslugi",
       "type": "ipset_exclude",
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/ipset/exclude/ipset-exclude-gosuslugi.json"
@@ -87,19 +77,9 @@
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/include/list-soundcloud.json"
     },
     {
-      "id": "list-telegram",
-      "type": "list",
-      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/include/list-telegram.json"
-    },
-    {
       "id": "list-twitter",
       "type": "list",
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/include/list-twitter.json"
-    },
-    {
-      "id": "list-whatsapp",
-      "type": "list",
-      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/include/list-whatsapp.json"
     },
     {
       "id": "list-youtube",
