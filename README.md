@@ -4,7 +4,6 @@
 * Для хранения списков доменов, которые можно скачивать из [приложения](https://github.com/CherretGit/zaprett-app)
 * Для хранения стратегий обхода, которые также можно скачивать из [приложения](https://github.com/CherretGit/zaprett-app)
 * Для хранения айписетов, которые можно скачивать из [приложения](https://github.com/CherretGit/zaprett-app)
-
 ## Как загрузить свои списки/стратегии/айписеты
 [Утилита для удобной работы с репозиторием](https://github.com/CherretGit/zaprett-repo-utils)
 
